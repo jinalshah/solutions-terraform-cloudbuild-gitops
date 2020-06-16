@@ -15,7 +15,7 @@
 
 terraform {
   backend "gcs" {
-    bucket = "kuard-js-tfstate"
+    bucket = "kuar-js-tfstate"
     prefix = "env/prod"
   }
 }

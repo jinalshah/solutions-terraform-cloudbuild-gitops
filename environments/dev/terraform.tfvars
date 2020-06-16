@@ -1,1 +1,1 @@
-project="kuard-js"
+project="kuar-js"
